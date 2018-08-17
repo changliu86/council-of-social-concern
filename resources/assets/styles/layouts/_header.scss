@@ -5,3 +5,23 @@
 .banner .nav a {
   @extend .nav-link;
 }
+
+.banner #main-nav {
+
+  .navbar-brand {
+    img {
+      height: 5rem;
+      width: 8rem;
+    }
+  }
+
+  #navbarNav {  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    a {
+      color: black;
+    }
+  }
+}
+

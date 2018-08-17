@@ -1,0 +1,23 @@
+.wrap{
+    padding: 0;
+  
+}
+
+#hero{
+    .hero-image {
+       height: 47rem;
+    }
+}
+.help-us{
+    background-color: gray;
+}
+
+.page-header{
+    .jumbotron{
+        color:white;
+        font-weight:bold;
+        background-position:center center;
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+}
