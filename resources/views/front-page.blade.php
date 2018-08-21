@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-  {{-- @include('partials.page-header') --}}
+  {{-- Will Change this to ACF when I have some time  --}}
     <div id="hero" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#hero" data-slide-to="0" class="active"></li>
